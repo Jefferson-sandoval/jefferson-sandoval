@@ -7,6 +7,8 @@ Me chamo Jefferson, sou Analista de Qualidade de Software com graduação em Des
 📚 Escrita e execução de casos de teste, critérios de aceitação e user stories <br>
 🛠️ Vivência em ambientes Scrum e Kanban, com uso intensivo do Jira para gestão de demandas <br>
 🤝 Colaboração próxima com times de desenvolvimento para identificar e resolver problemas de qualidade <br>
+🧪 Experiência com TDD para criação de testes automatizados desde o início do desenvolvimento <br>
+📖 Aplicação de BDD utilizando Gherkin para especificação de cenários e colaboração com o time <br>
 🚀 Foco em evolução constante, aprendizado e entrega de resultados
 
 <div style="display: inline_block"><br>
