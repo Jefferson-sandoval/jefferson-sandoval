@@ -1,15 +1,15 @@
 ## Olá!!!
 Me chamo Jefferson, sou Analista de Qualidade de Software com graduação em Desenvolvimento Full Stack. Atuo com testes manuais, automação e colaboração em ambientes ágeis, sempre buscando excelência e evolução.
 
-📝 Sobre mim <br>
-🎯 QA com atuação em múltiplos tipos de testes: funcionais, regressivos, exploratórios, performance e segurança <br>
-🔄 Experiência em automação de testes com Cypress e JavaScript, otimizando o tempo de execução <br>
-📚 Escrita e execução de casos de teste, critérios de aceitação e user stories <br>
-🛠️ Vivência em ambientes Scrum e Kanban, com uso intensivo do Jira para gestão de demandas <br>
-🤝 Colaboração próxima com times de desenvolvimento para identificar e resolver problemas de qualidade <br>
-🧪 Experiência com TDD para criação de testes automatizados desde o início do desenvolvimento <br>
-📖 Aplicação de BDD utilizando Gherkin para especificação de cenários e colaboração com o time <br>
-🚀 Foco em evolução constante, aprendizado e entrega de resultados
+## 📝 Sobre mim <br>
+<li> 🎯 QA com atuação em múltiplos tipos de testes: funcionais, regressivos, exploratórios, performance e segurança <br>
+<li> 🔄 Experiência em automação de testes com Cypress e JavaScript, otimizando o tempo de execução <br>
+<li> 📚 Escrita e execução de casos de teste, critérios de aceitação e user stories <br>
+<li> 🛠️ Vivência em ambientes Scrum e Kanban, com uso intensivo do Jira para gestão de demandas <br>
+<li> 🤝 Colaboração próxima com times de desenvolvimento para identificar e resolver problemas de qualidade <br>
+<li> 🧪 Experiência com TDD para criação de testes automatizados desde o início do desenvolvimento <br>
+<li> 📖 Aplicação de BDD utilizando Gherkin para especificação de cenários e colaboração com o time <br>
+<li> 🚀 Foco em evolução constante, aprendizado e entrega de resultados
 
 <div style="display: inline_block"><br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
